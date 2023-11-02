@@ -21,5 +21,5 @@
 
 ## Let's Get Connected
 - Twitter: [@sachinpal_01](https://twitter.com/sachinpal_01)
-- LinkedIn: [@Sachin Kumar Pal](www.linkedin.com/in/sachin-kumar-pal-7b27a5238)
+- LinkedIn: [Sachin Kumar Pal](www.linkedin.com/in/sachin-kumar-pal-7b27a5238)
 - Instagram: [@_shy__boi__unofficial_](https://www.instagram.com/_shy__boi__unofficial_/)
