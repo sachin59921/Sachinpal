@@ -1,7 +1,5 @@
 # Hi there, I'm Sachin Kumar Pal 👋
 
-![Sachin's GitHub Banner](./assets/GitHubHeader1.jpg)
-
 ## About Me
 - 🌱 I’m currently learning the MERN Stack.
 - 👯 I’m looking to collaborate on open-source projects.
